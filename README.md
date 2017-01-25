@@ -15,12 +15,14 @@ Supplementary code for publication:
 
 ## Usage
 
-Input data format is given by the file *test.csv*. Each line contains a sequence of 9 nucleotides (wild type) and the central nucleotide occurring the mutated variant:
+Input data format is given by the file *test.csv*. Each line contains a sequence of 9 nucleotides (wild type) and the central nucleotide occurring in the mutated variant:
 
-> GCCAAGTGA,C
-> GAATGACTG,A
-> ACTGAATTC,T
-> ...
+```
+GCCAAGTGA,C
+GAATGACTG,A
+ACTGAATTC,T
+...
+```
 
 You can calculate all the features and run the classifier using *predict.R* script:
 
