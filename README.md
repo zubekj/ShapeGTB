@@ -8,7 +8,7 @@ Supplementary code for publication:
 ## Requirements
 
 * xgboost
-* ![http://tsupeichiu.github.io/DNAshapeR/][DNAshapeR]
+* [DNAshapeR](http://tsupeichiu.github.io/DNAshapeR/)
 
 ## Files
 
