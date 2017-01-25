@@ -1,4 +1,3 @@
-library(xgboost)
 library(DNAshapeR)
 
 # Save temporary FASTA file for DNAShapeR
@@ -158,6 +157,3 @@ encode_features <- function(snps) {
 
    return(data)
 }
-
-
-
