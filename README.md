@@ -5,6 +5,11 @@ Supplementary code for publication:
 
 **The role of local DNA shape in prioritization of functional variants in human promoters**, Maja Malkowska, Julian Zubek, Dariusz Plewczynski, Lucjan Wyrwicz
 
+## Requirements
+
+* xgboost
+* ![http://tsupeichiu.github.io/DNAshapeR/][DNAshapeR]
+
 ## Files
 
 * *data/* -- original data used to train and test the classifier
